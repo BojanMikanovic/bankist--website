@@ -1,1 +1,1 @@
-Example of bankist website. 
+Practicing with VanillaJS with modern syntax.
